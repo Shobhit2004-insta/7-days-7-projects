@@ -28,7 +28,7 @@ A simple and interactive Counter Application built using HTML, CSS, and JavaScri
 ## 💡 How It Works
 
 Users can interact with buttons to increase, decrease, or reset the counter. JavaScript updates the value in real-time using event listeners and DOM manipulation.
-
+[https://shobhit2004-insta.github.io/7-days-7-projects/Count-Day1/]
 ---
 
 ## 🎯 Learning Outcome
