@@ -1,0 +1,72 @@
+body{
+margin:0;
+padding:0;
+font-family:Arial, Helvetica, sans-serif;
+background:linear-gradient(135deg,#00c6ff,#0072ff);
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+
+.container{
+background:white;
+padding:40px;
+border-radius:12px;
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
+text-align:center;
+width:300px;
+}
+
+
+h1{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+
+#count{
+font-size:70px;
+font-weight:bold;
+margin:20px 20px;
+}
+
+.buttons button{
+padding:10px 20px;
+margin:5px;
+font-size:20px;
+border:none;
+border-radius:6px;
+cursor:pointer;
+transition:0.3s;
+}
+
+#increase{
+background:green;
+color:white;
+padding: 20px 25px;
+border-radius: 10px;
+}
+
+#decrease{
+background:red;
+color:white;
+padding: 20px 25px;
+border-radius: 10px;
+}
+
+#reset{
+background:gray;
+color:white;
+padding: 20px 25px;
+border-radius: 10px;
+}
+
+button:hover{
+transform:scale(1.1);
+transition:0.3s;
+}
+
