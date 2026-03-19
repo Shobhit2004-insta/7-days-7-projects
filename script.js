@@ -1,37 +1,14 @@
-let count = 0;
 
-const display = document.getElementById("count");
+const text = document.getElementById("text");
+const count = document.getElementById("count");
+const clearBtn = document.getElementById("clear");
 
-const increaseBtn = document.getElementById("increase");
-const decreaseBtn = document.getElementById("decrease");
-const resetBtn = document.getElementById("reset");
-
-
-function updateDisplay(){
-display.textContent = count;
-
-if(count > 0){
-display.style.color = "green";
-}
-else if(count < 0){
-display.style.color = "red";
-}
-else{
-display.style.color = "black";
-}
-}
-
-increaseBtn.addEventListener("click", function(){
-count++;
-updateDisplay();
+text.addEventListener("input", function(){
+    count.textContent = text.value.length;
 });
 
-decreaseBtn.addEventListener("click", function(){
-count--;
-updateDisplay();
-});
-
-resetBtn.addEventListener("click", function(){
-count = 0;
-updateDisplay();
+clearBtn.addEventListener("click", function(){
+    text.value = "";
+    count.textContent = 0;
+    
 });
