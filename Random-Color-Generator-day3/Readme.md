@@ -31,7 +31,7 @@ A simple and interactive Random Color Generator built using HTML, CSS, and JavaS
 ## 💡 How It Works
 
 When the user clicks the button, JavaScript generates a random hex color using `Math.random()` and updates the background color instantly.
-[
+[https://shobhit2004-insta.github.io/7-days-7-projects/Random-Color-Generator-day3/]
 ---
 
 ## 🎯 Learning Outcome
