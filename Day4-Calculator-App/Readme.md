@@ -1,17 +1,18 @@
+# 📱 Samsung Style Calculator
 
-# 🔢 Calculator App
-
-A simple and interactive Calculator application built using HTML, CSS, and JavaScript. This app performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+A modern Samsung-inspired calculator built using HTML, CSS, and JavaScript. This project replicates the clean UI and functionality of a real mobile calculator with a smart bracket system.
 
 ---
 
 ## 🚀 Features
 
-- ➕ Addition, ➖ Subtraction  
-- ✖ Multiplication, ➗ Division  
-- 🧮 Real-time calculation  
-- ❌ Clear display button  
-- 🎨 Clean and user-friendly UI  
+- 🔢 Basic arithmetic operations (+, −, ×, ÷)  
+- 🧠 Smart bracket `()` button (auto open/close)  
+- ➕ Toggle positive/negative (+/-)  
+- ❌ Clear display (C button)  
+- 🎨 Samsung-style dark UI  
+- 🟢 Highlighted equal (=) button  
+- ⚡ Real-time calculation  
 
 ---
 
@@ -19,13 +20,13 @@ A simple and interactive Calculator application built using HTML, CSS, and JavaS
 
 - HTML  
 - CSS  
-- JavaScript (DOM Manipulation)
+- JavaScript (DOM Manipulation)  
 
 ---
 
 ## 📂 Project Structure
 
-Calculator-App
+Day4-Calculator-App
 │
 ├── index.html
 ├── style.css
@@ -35,22 +36,34 @@ Calculator-App
 
 ## 💡 How It Works
 
-Users click buttons to input numbers and operators. JavaScript captures the input and evaluates the expression to display the result instantly.
+- Users click buttons to enter numbers and operators  
+- JavaScript handles input dynamically  
+- Smart bracket logic decides whether to insert "(" or ")"  
+- Expression is evaluated and result is displayed instantly  
 
 ---
 
 ## 🎯 Learning Outcome
 
-- Handling user input with buttons  
-- Using JavaScript functions for calculations  
-- DOM manipulation  
-- Building interactive UI components  
+- Advanced DOM manipulation  
+- Event handling  
+- Building real-world UI (mobile-like design)  
+- Handling dynamic input logic (brackets, operators)  
 
 ---
 
 ## 🔗 Live Demo
 
 (Add your live project link here)
+
+---
+
+## 📸 Screenshot
+
+(Add your calculator screenshot here)
+
+Example:
+![Calculator UI](screenshot.png)
 
 ---
 
