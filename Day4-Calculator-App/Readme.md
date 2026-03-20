@@ -60,10 +60,8 @@ Day4-Calculator-App
 
 ## 📸 Screenshot
 
-(Add your calculator screenshot here)
+<img width="460" height="692" alt="Screenshots - File Explorer 3_20_2026 10_43_33 PM" src="https://github.com/user-attachments/assets/9a4f03e6-357b-44cc-b88a-f311829b37bf" />
 
-Example:
-![Calculator UI](screenshot.png)
 
 ---
 
