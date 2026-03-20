@@ -54,8 +54,7 @@ Day4-Calculator-App
 
 ## 🔗 Live Demo
 
-(Add your live project link here)
-
+[https://shobhit2004-insta.github.io/7-days-7-projects/Day4-Calculator-App/]
 ---
 
 ## 📸 Screenshot
