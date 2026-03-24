@@ -54,16 +54,13 @@ Notes-App
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here)
+[https://shobhit2004-insta.github.io/7-days-7-projects/Day6-Notes-App/]
 
 ---
 
 ## 📸 Screenshot
 
-(Add screenshot here)
-
-Example:
-![Notes App](screenshot.png)
+[<img width="744" height="746" alt="Notes App - Google Chrome 3_24_2026 9_54_46 PM" src="https://github.com/user-attachments/assets/e6fabedc-c427-4265-b7b4-9993e609bb00" />]
 
 ---
 
