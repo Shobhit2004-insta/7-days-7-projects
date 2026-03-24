@@ -60,7 +60,7 @@ Notes-App
 
 ## 📸 Screenshot
 
-[<img width="744" height="746" alt="Notes App - Google Chrome 3_24_2026 9_54_46 PM" src="https://github.com/user-attachments/assets/e6fabedc-c427-4265-b7b4-9993e609bb00" />]
+<img width="744" height="746" alt="Notes App - Google Chrome 3_24_2026 9_54_46 PM" src="https://github.com/user-attachments/assets/e6fabedc-c427-4265-b7b4-9993e609bb00" />
 
 ---
 
