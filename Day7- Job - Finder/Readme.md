@@ -62,7 +62,7 @@ job-finder/
 ## 📸 Screenshot
 
 <img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/d0b50638-1cca-495c-b08a-5932a50741d9" />
-roject screenshot here)
+
 
 ---
 
