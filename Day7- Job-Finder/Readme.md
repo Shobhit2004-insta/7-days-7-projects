@@ -55,7 +55,7 @@ job-finder/
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here)
+ https://shobhit2004-insta.github.io/7-days-7-projects/Day7-Job-Finder
 
 ---
 
